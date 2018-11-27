@@ -45,3 +45,6 @@ body {
     font-size: 3px;
     text-align: center;
 }
+.card-img-top {
+    border: 3px solid black;
+}
