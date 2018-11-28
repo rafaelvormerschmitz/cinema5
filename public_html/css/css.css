@@ -10,7 +10,7 @@ body {
     background-color:#EDEDED;
     list-style:none;
     font:110% Tahoma;
-    
+
 }
 #menu ul li { display: inline; }
 #menu ul li a {
@@ -32,6 +32,7 @@ body {
     top: -120px;
     font-family: Tahoma;
     font-size: 40px;
+
 }
 #titulo {
     background-color: orange;
@@ -52,4 +53,12 @@ body {
 }
 #rodape {
     background: gray;
+}
+.lt{
+    color: orange;
+}
+@media only screen and (max-width: 600px){
+    #sociais{
+        display: none; 
+    }
 }
