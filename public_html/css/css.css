@@ -27,11 +27,11 @@ body {
     color: #6D6D6D;
     border-bottom:3px solid #EA0000;
 }
-#socias {
+#sociais {
     text-align: center;
-    top: -100px;
+   
     font-family: Tahoma;
-    font-size: 40px;
+    font-size: 25px;
 
 }
 #titulo {
@@ -57,16 +57,14 @@ body {
 .lt{
     color: orange;
 }
-#socias {
-    font-size: 25px;
-}
+
 .search{
     width: 90px;
     height: 90px;
 }
 @media only screen and (max-width: 600px){
     #sociais{
-        display: none  !important; 
+        display: none; 
     }
     #menu ul li {
         display: block !important;
