@@ -29,7 +29,6 @@ body {
 }
 #sociais {
     text-align: center;
-   
     font-family: Tahoma;
     font-size: 25px;
 
@@ -62,6 +61,7 @@ body {
     width: 90px;
     height: 90px;
 }
+
 @media only screen and (max-width: 600px){
     #sociais{
         display: none; 
